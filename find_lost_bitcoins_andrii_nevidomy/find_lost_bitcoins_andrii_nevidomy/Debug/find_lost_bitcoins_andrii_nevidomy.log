@@ -1,0 +1,8 @@
+﻿  find_lost_bitcoins_andrii_nevidomy.cpp
+E:\Blockchain\find_lost_bitcoins_andrii_nevidomyi\find_lost_bitcoins_andrii_nevidomy\find_lost_bitcoins_andrii_nevidomy\BlockchainClient.h(56,33): warning C4101: 'ex': unreferenced local variable
+E:\Blockchain\find_lost_bitcoins_andrii_nevidomyi\find_lost_bitcoins_andrii_nevidomy\find_lost_bitcoins_andrii_nevidomy\BlockchainClient.h(78): message : see reference to function template instantiation 'T BlockchainClient::GetRequest<TransactionInfo>(const std::string &) const' being compiled
+          with
+          [
+              T=TransactionInfo
+          ]
+  find_lost_bitcoins_andrii_nevidomy.vcxproj -> E:\Blockchain\find_lost_bitcoins_andrii_nevidomyi\find_lost_bitcoins_andrii_nevidomy\Debug\find_lost_bitcoins_andrii_nevidomy.exe
